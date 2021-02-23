@@ -2,14 +2,10 @@ Choice-based Conjoint Analysis - Student accommodation
 ================
 Fattorel Marta & Tonin Marco
 
-<style>
-body {
-text-align: justify}
-</style>
 
 ## Introduction
 
-The Covid-19 pandemic has profoundly changed the market in some sectors.
+<div align="justify">The Covid-19 pandemic has profoundly changed the market in some sectors.
 This is the case of the housing market, especially in those cities in
 which there is a large number of students who live in. Due to the
 current situation, most of the university lessons are online or with a
@@ -839,6 +835,7 @@ and the living room are the most popular choices. Since the living room
 could be expensive because it is an additional empty room, the landlord
 could decide to rent it as a single room and to buy the dishwasher plus
 microwave for the apartment.
+</div>
 
 1.  Block 1:
     <https://docs.google.com/forms/d/1VWVfigCF7Qr-QQEIbw0Epiieb0aU26k0mh8bv-wRjic/edit>

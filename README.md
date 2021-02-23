@@ -1,7 +1,7 @@
 # The-student-accommodation-market
 
 ## Overview
-The Covid-19 pandemic has profoundly changed the market in some sectors. This is the case of the student housing market. Now, more than ever, real estate agencies and private landlords need to understand customer preferences in order to find tenants for the empty rooms or apartments they own.
+<div align="justify">The Covid-19 pandemic has profoundly changed the market in some sectors. This is the case of the student housing market. Now, more than ever, real estate agencies and private landlords need to understand customer preferences in order to find tenants for the empty rooms or apartments they own.
 
 The aim of this Choice-based Conjoint Analysis is to investigate customer preferences about student accommodation by answering the following research questions:
 
@@ -11,6 +11,7 @@ The aim of this Choice-based Conjoint Analysis is to investigate customer prefer
 
 ## Dataset
 Data have been collected through a choice-based conjoint survey according to the Fractional Factorial Design with a Mix and Match approach. The sample design follows a snowball sampling, in which existing study subjects recruit future subjects among their acquaintances. We have considered only university students (Master’s, Bachelor’s and PhD), for a total of 142 respondents.
+</div>
 
 ## Required R libraries
 The Code is written in R 4.0.3.
